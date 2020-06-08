@@ -1,0 +1,1296 @@
+[2020-05-21  11:35:28] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-21  12:43:35] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-21  01:14:22] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-21  01:15:06] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-21  02:34:31] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-21  02:38:21] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-21  02:49:19] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-21  03:20:44] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-21  03:22:18] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-21  03:27:59] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-21  03:28:39] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-21  04:03:45] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-21  04:05:09] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-21  04:05:57] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-21  04:06:43] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-21  04:10:07] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-21  04:31:50] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-21  04:33:28] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-21  04:36:40] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-21  04:40:38] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-21  05:32:26] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-21  05:41:32] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-21  06:22:17] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  09:26:00] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  09:34:02] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  09:38:16] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  09:38:59] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  09:41:46] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  09:42:30] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  09:46:34] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  10:08:12] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  10:13:40] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  10:21:55] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  10:25:59] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  10:30:03] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  10:34:06] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  10:38:06] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  10:40:29] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  10:52:24] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  10:53:39] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  11:01:34] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  11:04:16] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  11:06:16] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  11:20:33] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  11:27:19] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  11:27:34] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  11:43:35] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  12:04:03] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  12:04:30] Handle parser error! (Поток находился в процессе прерывания.) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 244]
+[2020-05-22  12:04:48] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  12:05:34] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  12:07:03] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  12:09:51] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  12:16:02] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  12:37:42] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  01:33:43] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  01:49:52] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  01:53:16] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  01:55:56] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  01:57:12] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  03:23:16] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  03:25:03] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  03:27:08] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  03:27:31] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  03:30:26] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  03:31:12] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  03:32:50] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  03:35:01] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  03:35:53] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  03:37:37] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  03:43:17] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  03:43:50] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  03:45:03] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  03:46:26] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  03:47:44] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  03:48:21] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  03:49:47] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  03:50:57] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  03:54:16] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  03:56:14] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  03:57:29] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  03:58:23] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  04:12:50] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  04:13:26] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  04:14:09] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  04:14:38] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  04:50:40] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  04:53:07] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  04:57:27] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  05:00:12] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  05:10:25] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  05:12:35] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  05:22:18] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  05:24:42] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  05:52:54] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  05:53:32] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  05:57:34] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  06:01:01] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-22  06:15:46] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-25  09:31:13] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-25  09:31:39] Handle parser error! (Поток находился в процессе прерывания.) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 244]
+[2020-05-25  11:01:56] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-25  11:04:15] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-25  11:09:07] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-25  11:13:55] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-25  11:18:49] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-25  11:19:26] Handle parser error! (Поток находился в процессе прерывания.) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 244]
+[2020-05-25  01:21:05] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-26  10:24:27] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-26  02:26:01] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-27  11:35:32] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-27  11:41:13] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-27  11:44:52] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-27  11:45:41] Handle parser error! (Поток находился в процессе прерывания.) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 246]
+[2020-05-27  11:48:36] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-27  12:52:25] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-27  01:46:44] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-27  01:47:31] Handle parser error! (Поток находился в процессе прерывания.) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 247]
+[2020-05-27  01:51:03] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-27  02:38:26] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-27  02:42:06] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-27  02:50:24] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-27  02:52:46] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-27  03:03:13] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-27  03:40:53] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-27  03:43:16] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-27  03:46:33] Handle parser error! (Поток находился в процессе прерывания.) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 249]
+[2020-05-27  04:02:52] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-27  04:04:13] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-27  04:09:50] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-27  04:13:40] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-27  04:16:42] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-27  04:27:55] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-27  04:30:29] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-27  04:32:15] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-27  04:34:15] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-27  04:37:33] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-27  04:42:47] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-27  04:45:03] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-27  04:46:32] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-27  04:47:53] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-27  05:02:02] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-27  05:08:30] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-27  05:28:01] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  10:49:20] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  10:55:41] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  10:59:06] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  11:02:20] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  11:04:01] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  11:15:39] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  11:28:29] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  11:44:34] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  11:56:16] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  12:09:19] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  12:50:09] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  01:25:52] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  01:48:48] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  02:27:51] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  02:42:55] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  03:10:00] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  03:11:01] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  03:12:22] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  03:13:51] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  03:15:38] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  03:16:06] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  03:52:40] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  03:54:02] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  03:55:06] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  04:02:47] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  05:05:22] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  05:08:10] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  05:09:42] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  05:10:53] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  05:11:44] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  05:13:48] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  05:19:53] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  05:29:52] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  05:35:17] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  05:44:48] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  05:46:23] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  05:52:06] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  05:52:56] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  05:55:45] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  06:11:30] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  06:12:57] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  06:17:19] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-28  06:23:31] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  09:14:47] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  09:21:54] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  09:22:11] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  09:22:35] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  09:25:27] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  09:48:16] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  09:53:37] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  09:58:01] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  09:58:06] Handle parser error! (System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в FLTR.Terminal.HelperClasses.DataParser.CheckIndexes(Byte[] buf, Int32 len, Int32 dataCount, Int32 indNow) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 1186
+   в FLTR.Terminal.HelperClasses.DataParser.ParseByteCircular(PacketData& packetData) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 534
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 209) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 255]
+[2020-05-29  09:58:06] Handle parser error! (System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в FLTR.Terminal.HelperClasses.DataParser.CheckIndexes(Byte[] buf, Int32 len, Int32 dataCount, Int32 indNow) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 1186
+   в FLTR.Terminal.HelperClasses.DataParser.ParseByteCircular(PacketData& packetData) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 534
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 209) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 255]
+[2020-05-29  09:58:48] Handle parser error! (System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в FLTR.Terminal.HelperClasses.DataParser.CheckIndexes(Byte[] buf, Int32 len, Int32 dataCount, Int32 indNow) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 1186
+   в FLTR.Terminal.HelperClasses.DataParser.ParseByteCircular(PacketData& packetData) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 534
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 209) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 255]
+[2020-05-29  09:59:09] Handle parser error! (System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в FLTR.Terminal.HelperClasses.DataParser.CheckIndexes(Byte[] buf, Int32 len, Int32 dataCount, Int32 indNow) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 1186
+   в FLTR.Terminal.HelperClasses.DataParser.ParseByteCircular(PacketData& packetData) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 534
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 209) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 255]
+[2020-05-29  09:59:45] Handle parser error! (System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в FLTR.Terminal.HelperClasses.DataParser.CheckIndexes(Byte[] buf, Int32 len, Int32 dataCount, Int32 indNow) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 1186
+   в FLTR.Terminal.HelperClasses.DataParser.ParseByteCircular(PacketData& packetData) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 534
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 209) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 255]
+[2020-05-29  10:00:05] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  10:00:12] Handle parser error! (System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в FLTR.Terminal.HelperClasses.DataParser.CheckIndexes(Byte[] buf, Int32 len, Int32 dataCount, Int32 indNow) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 1186
+   в FLTR.Terminal.HelperClasses.DataParser.ParseByteCircular(PacketData& packetData) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 534
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 209) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 255]
+[2020-05-29  10:00:23] Handle parser error! (System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в FLTR.Terminal.HelperClasses.DataParser.CheckIndexes(Byte[] buf, Int32 len, Int32 dataCount, Int32 indNow) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 1186
+   в FLTR.Terminal.HelperClasses.DataParser.ParseByteCircular(PacketData& packetData) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 534
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 209) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 255]
+[2020-05-29  10:02:32] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  10:02:44] Handle parser error! (System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в FLTR.Terminal.HelperClasses.DataParser.CheckIndexes(Byte[] buf, Int32 len, Int32 dataCount, Int32 indNow) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 1186
+   в FLTR.Terminal.HelperClasses.DataParser.ParseByteCircular(PacketData& packetData) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 534
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 209) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 255]
+[2020-05-29  10:03:35] Handle parser error! (System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в FLTR.Terminal.HelperClasses.DataParser.CheckIndexes(Byte[] buf, Int32 len, Int32 dataCount, Int32 indNow) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 1186
+   в FLTR.Terminal.HelperClasses.DataParser.ParseByteCircular(PacketData& packetData) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 534
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 209) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 255]
+[2020-05-29  10:03:35] Handle parser error! (System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в FLTR.Terminal.HelperClasses.DataParser.CheckIndexes(Byte[] buf, Int32 len, Int32 dataCount, Int32 indNow) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 1186
+   в FLTR.Terminal.HelperClasses.DataParser.ParseByteCircular(PacketData& packetData) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 534
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 209) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 255]
+[2020-05-29  10:03:44] Handle parser error! (System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в FLTR.Terminal.HelperClasses.DataParser.CheckIndexes(Byte[] buf, Int32 len, Int32 dataCount, Int32 indNow) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 1186
+   в FLTR.Terminal.HelperClasses.DataParser.ParseByteCircular(PacketData& packetData) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 534
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 209) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 255]
+[2020-05-29  10:03:44] Handle parser error! (System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в FLTR.Terminal.HelperClasses.DataParser.CheckIndexes(Byte[] buf, Int32 len, Int32 dataCount, Int32 indNow) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 1186
+   в FLTR.Terminal.HelperClasses.DataParser.ParseByteCircular(PacketData& packetData) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 534
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 209) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 255]
+[2020-05-29  10:04:56] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  10:05:28] Handle parser error! (System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в FLTR.Terminal.HelperClasses.DataParser.CheckIndexes(Byte[] buf, Int32 len, Int32 dataCount, Int32 indNow) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 1186
+   в FLTR.Terminal.HelperClasses.DataParser.ParseByteCircular(PacketData& packetData) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 534
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 209) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 255]
+[2020-05-29  10:05:34] Handle parser error! (System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в FLTR.Terminal.HelperClasses.DataParser.CheckIndexes(Byte[] buf, Int32 len, Int32 dataCount, Int32 indNow) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 1186
+   в FLTR.Terminal.HelperClasses.DataParser.ParseByteCircular(PacketData& packetData) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 534
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 209) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 255]
+[2020-05-29  10:05:34] Handle parser error! (System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в FLTR.Terminal.HelperClasses.DataParser.CheckIndexes(Byte[] buf, Int32 len, Int32 dataCount, Int32 indNow) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 1186
+   в FLTR.Terminal.HelperClasses.DataParser.ParseByteCircular(PacketData& packetData) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 534
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 209) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 255]
+[2020-05-29  10:05:43] Handle parser error! (System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в FLTR.Terminal.HelperClasses.DataParser.CheckIndexes(Byte[] buf, Int32 len, Int32 dataCount, Int32 indNow) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 1186
+   в FLTR.Terminal.HelperClasses.DataParser.ParseByteCircular(PacketData& packetData) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 534
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 209) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 255]
+[2020-05-29  10:05:43] Handle parser error! (System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в FLTR.Terminal.HelperClasses.DataParser.CheckIndexes(Byte[] buf, Int32 len, Int32 dataCount, Int32 indNow) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 1186
+   в FLTR.Terminal.HelperClasses.DataParser.ParseByteCircular(PacketData& packetData) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 534
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 209) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 255]
+[2020-05-29  10:06:09] Handle parser error! (System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в FLTR.Terminal.HelperClasses.DataParser.CheckIndexes(Byte[] buf, Int32 len, Int32 dataCount, Int32 indNow) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 1186
+   в FLTR.Terminal.HelperClasses.DataParser.ParseByteCircular(PacketData& packetData) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 534
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 209) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 255]
+[2020-05-29  10:07:18] Handle parser error! (System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в FLTR.Terminal.HelperClasses.DataParser.CheckIndexes(Byte[] buf, Int32 len, Int32 dataCount, Int32 indNow) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 1186
+   в FLTR.Terminal.HelperClasses.DataParser.ParseByteCircular(PacketData& packetData) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 534
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 209) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 255]
+[2020-05-29  10:07:28] Handle parser error! (System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в FLTR.Terminal.HelperClasses.DataParser.CheckIndexes(Byte[] buf, Int32 len, Int32 dataCount, Int32 indNow) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 1186
+   в FLTR.Terminal.HelperClasses.DataParser.ParseByteCircular(PacketData& packetData) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 534
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 209) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 255]
+[2020-05-29  10:07:49] Handle parser error! (System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в FLTR.Terminal.HelperClasses.DataParser.CheckIndexes(Byte[] buf, Int32 len, Int32 dataCount, Int32 indNow) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 1186
+   в FLTR.Terminal.HelperClasses.DataParser.ParseByteCircular(PacketData& packetData) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 534
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 209) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 255]
+[2020-05-29  10:19:33] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  10:21:56] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  10:50:45] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  10:51:32] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseHexChar(Char c)
+   в MS.Internal.Parsers.ParseHexColor(String trimmedColor)
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 571
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__0() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 230
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 228) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 255]
+[2020-05-29  10:51:38] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseHexChar(Char c)
+   в MS.Internal.Parsers.ParseHexColor(String trimmedColor)
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 571
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__0() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 230
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 228) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 255]
+[2020-05-29  10:51:46] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseHexChar(Char c)
+   в MS.Internal.Parsers.ParseHexColor(String trimmedColor)
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 571
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__0() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 230
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 228) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 255]
+[2020-05-29  10:51:46] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseHexChar(Char c)
+   в MS.Internal.Parsers.ParseHexColor(String trimmedColor)
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 571
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__0() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 230
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 228) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 255]
+[2020-05-29  10:51:51] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseHexChar(Char c)
+   в MS.Internal.Parsers.ParseHexColor(String trimmedColor)
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 571
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__0() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 230
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 228) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 255]
+[2020-05-29  10:51:58] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseHexChar(Char c)
+   в MS.Internal.Parsers.ParseHexColor(String trimmedColor)
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 571
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__0() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 230
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 228) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 255]
+[2020-05-29  10:51:58] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseHexChar(Char c)
+   в MS.Internal.Parsers.ParseHexColor(String trimmedColor)
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 571
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__0() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 230
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 228) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 255]
+[2020-05-29  10:51:58] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 571
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__0() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 230
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 228) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 255]
+[2020-05-29  10:52:06] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseHexChar(Char c)
+   в MS.Internal.Parsers.ParseHexColor(String trimmedColor)
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 571
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__0() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 230
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 228) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 255]
+[2020-05-29  10:52:08] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseHexChar(Char c)
+   в MS.Internal.Parsers.ParseHexColor(String trimmedColor)
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 571
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__0() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 230
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 228) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 255]
+[2020-05-29  10:53:38] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  10:55:25] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  10:55:40] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  10:58:03] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  11:12:53] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  11:15:01] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  12:19:48] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  12:19:58] Handle parser error! (System.ArgumentOutOfRangeException: startIndex не может быть больше, чем длина строки.
+Имя параметра: startIndex
+   в System.String.Substring(Int32 startIndex, Int32 length)
+   в FLTR.Terminal.HelperClasses.DataParser.ParseByteCircularStateMachine(PacketData& packetData) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 317
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 208) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 263]
+[2020-05-29  12:20:26] Handle parser error! (System.InvalidOperationException: Cannot access an empty buffer.
+   в FLTR.Terminal.CircularBuffer`1.ThrowIfEmpty(String message) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\CircularBuffer.cs:строка 276
+   в FLTR.Terminal.CircularBuffer`1.Front() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\CircularBuffer.cs:строка 117
+   в FLTR.Terminal.HelperClasses.DataParser.ParseByteCircularStateMachine(PacketData& packetData) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 255
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 208) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 263]
+[2020-05-29  12:20:51] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  12:25:29] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseHexChar(Char c)
+   в MS.Internal.Parsers.ParseHexColor(String trimmedColor)
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 579
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__0() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 230
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 228) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 263]
+[2020-05-29  12:27:08] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  12:45:59] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  12:46:23] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  12:53:02] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  12:53:49] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  01:41:58] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  01:42:29] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  01:44:08] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  01:44:31] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  01:45:04] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  01:46:13] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  01:47:37] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  01:48:56] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  01:50:39] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  01:52:34] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  01:53:23] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  01:59:12] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  02:00:58] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  02:53:16] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  02:53:47] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  02:54:55] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  02:55:30] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  02:58:26] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  03:00:43] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  03:07:45] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  03:09:34] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  03:12:54] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  03:13:23] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  03:14:18] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  03:14:30] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  03:14:42] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  03:14:53] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  03:32:53] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  03:33:07] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  03:33:20] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  03:33:35] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  03:33:52] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  03:34:08] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  03:34:20] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  03:34:36] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  03:35:34] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  03:38:49] Handle parser error! (System.ArgumentOutOfRangeException: startIndex не может быть больше, чем длина строки.
+Имя параметра: startIndex
+   в System.String.Substring(Int32 startIndex, Int32 length)
+   в System.String.Substring(Int32 startIndex)
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__0() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 231
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 229) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 264]
+[2020-05-29  03:39:41] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseHexChar(Char c)
+   в MS.Internal.Parsers.ParseHexColor(String trimmedColor)
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 580
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__0() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 231
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 229) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 264]
+[2020-05-29  03:40:21] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 580
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__0() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 231
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 229) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 264]
+[2020-05-29  03:45:59] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 580
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__0() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 231
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 229) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 264]
+[2020-05-29  03:47:42] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  03:48:11] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseHexChar(Char c)
+   в MS.Internal.Parsers.ParseHexColor(String trimmedColor)
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 580
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__0() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 231
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 229) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 264]
+[2020-05-29  03:48:13] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 580
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__0() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 231
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 229) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 264]
+[2020-05-29  03:48:13] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 580
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__0() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 231
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 229) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 264]
+[2020-05-29  03:48:38] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseHexChar(Char c)
+   в MS.Internal.Parsers.ParseHexColor(String trimmedColor)
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 580
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__0() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 231
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 229) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 264]
+[2020-05-29  03:48:38] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseHexChar(Char c)
+   в MS.Internal.Parsers.ParseHexColor(String trimmedColor)
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 580
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__0() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 231
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 229) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 264]
+[2020-05-29  03:48:40] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseHexChar(Char c)
+   в MS.Internal.Parsers.ParseHexColor(String trimmedColor)
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 580
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__0() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 231
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 229) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 264]
+[2020-05-29  03:48:41] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseHexChar(Char c)
+   в MS.Internal.Parsers.ParseHexColor(String trimmedColor)
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 580
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__0() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 231
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 229) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 264]
+[2020-05-29  03:48:41] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseHexChar(Char c)
+   в MS.Internal.Parsers.ParseHexColor(String trimmedColor)
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 580
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__0() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 231
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 229) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 264]
+[2020-05-29  03:48:42] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseHexChar(Char c)
+   в MS.Internal.Parsers.ParseHexColor(String trimmedColor)
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 580
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__0() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 231
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 229) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 264]
+[2020-05-29  03:48:52] Handle parser error! (System.ArgumentOutOfRangeException: startIndex не может быть больше, чем длина строки.
+Имя параметра: startIndex
+   в System.String.Substring(Int32 startIndex, Int32 length)
+   в FLTR.Terminal.HelperClasses.DataParser.ParseByteCircularStateMachine(PacketData& packetData) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 316
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 209) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 264]
+[2020-05-29  03:52:57] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseHexChar(Char c)
+   в MS.Internal.Parsers.ParseHexColor(String trimmedColor)
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 580
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__0() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 231
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 229) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 264]
+[2020-05-29  03:53:38] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseHexChar(Char c)
+   в MS.Internal.Parsers.ParseHexColor(String trimmedColor)
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 580
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__0() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 231
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 229) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 264]
+[2020-05-29  03:54:27] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseHexChar(Char c)
+   в MS.Internal.Parsers.ParseHexColor(String trimmedColor)
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 580
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__0() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 231
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 229) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 264]
+[2020-05-29  03:54:27] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseHexChar(Char c)
+   в MS.Internal.Parsers.ParseHexColor(String trimmedColor)
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 580
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__0() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 231
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 229) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 264]
+[2020-05-29  03:54:54] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseHexChar(Char c)
+   в MS.Internal.Parsers.ParseHexColor(String trimmedColor)
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 580
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__0() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 231
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 229) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 264]
+[2020-05-29  03:54:56] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseHexChar(Char c)
+   в MS.Internal.Parsers.ParseHexColor(String trimmedColor)
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 580
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__0() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 231
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 229) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 264]
+[2020-05-29  03:56:04] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  03:57:27] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  03:59:31] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  04:00:26] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  04:01:34] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  04:01:49] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  04:02:04] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  04:02:25] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  04:02:39] Handle parser error! (System.ArgumentOutOfRangeException: startIndex не может быть больше, чем длина строки.
+Имя параметра: startIndex
+   в System.String.Substring(Int32 startIndex, Int32 length)
+   в FLTR.Terminal.HelperClasses.DataParser.ParseByteCircularStateMachine(PacketData& packetData) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 316
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 209) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 264]
+[2020-05-29  04:02:47] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 580
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__0() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 231
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 229) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 264]
+[2020-05-29  04:02:55] Handle parser error! (System.ArgumentOutOfRangeException: startIndex не может быть больше, чем длина строки.
+Имя параметра: startIndex
+   в System.String.Substring(Int32 startIndex, Int32 length)
+   в FLTR.Terminal.HelperClasses.DataParser.ParseByteCircularStateMachine(PacketData& packetData) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 316
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 209) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 264]
+[2020-05-29  04:10:16] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  04:10:28] Handle parser error! (System.InvalidOperationException: Cannot access an empty buffer.
+   в FLTR.Terminal.CircularBuffer`1.ThrowIfEmpty(String message) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\CircularBuffer.cs:строка 276
+   в FLTR.Terminal.CircularBuffer`1.Front() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\CircularBuffer.cs:строка 117
+   в FLTR.Terminal.HelperClasses.DataParser.ParseByteCircularStateMachine(PacketData& packetData) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 312
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 209) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 264]
+[2020-05-29  04:10:49] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  04:12:12] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  04:12:37] Handle parser error! (System.InvalidOperationException: Cannot access an empty buffer.
+   в FLTR.Terminal.CircularBuffer`1.ThrowIfEmpty(String message) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\CircularBuffer.cs:строка 276
+   в FLTR.Terminal.CircularBuffer`1.Front() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\CircularBuffer.cs:строка 117
+   в FLTR.Terminal.HelperClasses.DataParser.ParseByteCircularStateMachine(PacketData& packetData) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 258
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 209) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 264]
+[2020-05-29  04:13:12] Handle parser error! (System.ArgumentOutOfRangeException: Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+   в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в System.Collections.ObjectModel.Collection`1.get_Item(Int32 index)
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_1.<HandleParserByteAsync>b__3() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 244
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 242) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 264]
+[2020-05-29  04:14:04] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  04:14:24] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  04:14:40] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  04:14:53] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  04:18:34] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  04:18:49] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  04:20:12] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  04:22:05] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  04:22:58] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  04:27:37] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  04:28:17] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  04:29:28] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  04:30:32] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  05:10:21] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  05:24:11] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  05:25:37] Handle parser error! (System.ArgumentOutOfRangeException: Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+   в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в System.Collections.ObjectModel.Collection`1.get_Item(Int32 index)
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_1.<HandleParserByteAsync>b__3() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 244
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 242) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 264]
+[2020-05-29  05:27:03] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  05:27:18] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  05:27:32] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  05:28:09] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  05:28:21] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  05:32:41] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  05:33:04] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  05:33:34] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseHexChar(Char c)
+   в MS.Internal.Parsers.ParseHexColor(String trimmedColor)
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 580
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__0() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 231
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 229) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 264]
+[2020-05-29  05:37:23] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  05:37:56] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  05:40:26] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  05:43:18] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-05-29  05:49:22] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  08:54:20] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  09:13:02] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  09:14:35] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  09:15:08] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  09:23:39] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  09:23:51] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  09:36:24] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  09:46:49] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  09:48:43] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  09:51:31] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  09:51:41] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  09:53:00] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  09:54:44] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  09:55:03] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  10:42:30] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  10:53:13] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  12:08:46] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  12:13:36] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  12:14:28] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  12:16:50] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  12:25:59] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  12:28:29] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  12:31:10] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  12:32:41] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  12:32:58] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseHexChar(Char c)
+   в MS.Internal.Parsers.ParseHexColor(String trimmedColor)
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr, Boolean isLineFeed) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 595
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass27_0.<HandleParserByteAsync>b__1() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 242
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__27.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 240) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 275]
+[2020-06-01  12:38:51] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  12:42:02] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  12:42:46] Handle parser error! (System.InvalidOperationException: Cannot take elements from an empty buffer.
+   в FLTR.Terminal.CircularBuffer`1.ThrowIfEmpty(String message) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\CircularBuffer.cs:строка 276
+   в FLTR.Terminal.CircularBuffer`1.PopFront() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\CircularBuffer.cs:строка 227
+   в FLTR.Terminal.HelperClasses.DataParser.ParseByteCircularStateMachine(PacketData& packetData) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 143
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__27.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 211) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 275]
+[2020-06-01  12:45:17] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  12:48:16] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  12:49:04] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  12:51:05] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  02:52:00] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  02:52:59] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  02:54:34] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  03:30:06] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  03:32:50] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  03:35:25] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  03:38:53] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  03:40:21] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  03:40:54] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  03:52:53] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  04:01:28] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  04:10:29] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  04:22:48] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  04:29:15] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  04:31:41] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  04:59:07] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  05:00:20] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  05:01:11] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  05:09:26] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  05:10:39] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  05:13:24] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  05:14:18] Handle parser error! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseHexChar(Char c)
+   в MS.Internal.Parsers.ParseHexColor(String trimmedColor)
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr, Boolean isLineFeed) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 614
+   в FLTR.Terminal.ComTerminalPage.<>c__DisplayClass26_0.<HandleParserByteAsync>b__1() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 225
+   в System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   в System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__26.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 223) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 258]
+[2020-06-01  05:19:12] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  05:59:50] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  06:00:24] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  06:01:34] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  06:03:13] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  06:03:45] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  06:04:20] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  06:06:01] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  06:07:34] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  06:09:58] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  06:11:15] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  06:13:51] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  06:17:15] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  06:17:57] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-01  06:18:49] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  09:26:04] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  09:29:13] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  09:31:43] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  09:33:57] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  09:34:22] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  09:36:58] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  09:38:50] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  09:39:40] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  09:40:26] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  09:41:33] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  10:04:39] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  10:05:49] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  10:08:32] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  10:09:54] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  10:11:43] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  10:15:32] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  10:18:31] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  10:25:21] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  10:28:16] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  10:51:10] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  10:53:21] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  10:59:44] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  11:25:09] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  02:09:26] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  02:12:44] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  02:13:35] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  02:19:22] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  02:20:39] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  02:22:24] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  02:24:36] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  03:44:48] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  04:00:36] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  04:01:01] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  04:02:07] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  04:03:49] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  04:06:02] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  04:06:52] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  04:56:25] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  04:59:53] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  05:00:21] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  05:01:03] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  05:03:00] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  05:03:37] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  05:05:53] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  05:07:59] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  05:09:03] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  05:11:11] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  05:13:09] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  05:14:33] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  05:18:01] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  05:24:19] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-02  05:24:48] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-03  09:39:18] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-03  09:55:11] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-03  10:00:15] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-03  10:31:19] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-03  11:07:43] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-03  11:32:55] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-03  11:39:06] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-03  11:49:35] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-03  11:53:30] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-03  11:53:56] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-03  12:17:13] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-03  12:31:49] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-03  12:35:02] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-03  12:37:45] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  09:26:05] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  09:27:48] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  09:37:45] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  09:45:07] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  09:46:44] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  09:50:35] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  09:54:02] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  10:05:19] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  10:09:25] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  10:14:39] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  10:16:38] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  10:17:18] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  10:18:03] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  10:21:51] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  10:28:31] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  10:30:47] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  10:36:17] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  11:00:49] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  11:01:42] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  11:02:25] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  11:07:28] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  11:08:10] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  11:09:10] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  11:14:12] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  11:43:51] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  11:44:27] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  11:46:53] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  11:47:27] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  11:48:52] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  11:50:21] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  11:58:58] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  11:59:25] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  12:00:13] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  12:01:54] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  12:09:15] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  12:49:50] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-04  01:08:17] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  09:59:25] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  10:00:26] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  10:04:36] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  10:31:10] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  10:33:21] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  10:34:36] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  11:12:42] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  11:14:02] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  11:24:49] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  11:35:59] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  11:36:41] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  11:37:35] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  11:38:45] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  11:44:18] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  11:46:58] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  12:00:17] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  12:01:37] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  01:06:34] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  01:07:36] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  01:08:26] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  01:16:16] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  01:47:41] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  01:48:54] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  01:49:32] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  01:51:04] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  01:51:46] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  01:52:50] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  02:54:54] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  02:55:27] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  02:58:46] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  02:59:28] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  03:12:30] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  03:52:22] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  04:35:55] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-05  04:43:01] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-08  09:29:39] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-08  09:49:46] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-08  10:41:50] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-08  11:02:39] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-08  11:04:20] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-08  11:47:31] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-08  12:20:37] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-08  12:31:27] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-08  12:50:48] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-08  01:49:45] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-08  02:10:10] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-08  02:11:36] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-08  02:12:41] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-08  02:13:06] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-08  02:14:01] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-08  02:14:41] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-08  02:15:44] Application starting... [App.xaml.cs > OnStartup > Line 30]
