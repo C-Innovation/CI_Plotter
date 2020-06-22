@@ -1310,3 +1310,23 @@
 [2020-06-22  02:46:13] Application starting... [App.xaml.cs > OnStartup > Line 30]
 [2020-06-22  02:48:46] Application starting... [App.xaml.cs > OnStartup > Line 30]
 [2020-06-22  03:02:19] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-22  03:39:59] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-22  03:41:04] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-22  03:45:29] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-22  04:09:22] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-22  04:15:19] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-22  04:15:35] Append Terminal Monitor error in Brush Converter! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseHexChar(Char c)
+   в MS.Internal.Parsers.ParseHexColor(String trimmedColor)
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr, Boolean isLineFeed) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 824) [ComTerminalPage.xaml.cs > AppendTerminalMonitor > Line 828]
+[2020-06-22  04:27:23] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2020-06-22  04:33:01] Handle parser error! (System.ArgumentOutOfRangeException: startIndex не может быть больше, чем длина строки.
+Имя параметра: startIndex
+   в System.String.Substring(Int32 startIndex, Int32 length)
+   в FLTR.Terminal.HelperClasses.DataParser.ParseByteCircularStateMachine(PacketData& packetData) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\HelperClasses\DataParser.cs:строка 324
+   в FLTR.Terminal.ComTerminalPage.<HandleParserByteAsync>d__27.MoveNext() в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 203) [ComTerminalPage.xaml.cs > HandleParserByteAsync > Line 293]
+[2020-06-22  05:01:43] Application starting... [App.xaml.cs > OnStartup > Line 30]
