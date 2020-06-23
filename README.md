@@ -2,7 +2,7 @@
  Debug utility with plotter and color terminal
  
  # Features
- - 8 - channel plotter
+ - 8 - channel real-time plotter
  - colorized terminal
  - convenient analysis of graph results
  - saving graph results as JPEG and XLS
