@@ -2,6 +2,7 @@
  Debug utility with plotter and color terminal
  
  # Features
+ - FREE!
  - 8 - channel real-time plotter
  - colorized terminal
  - convenient analysis of graph results
