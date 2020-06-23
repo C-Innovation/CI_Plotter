@@ -5,7 +5,7 @@
 CI_ArduinoPlotter::CI_ArduinoPlotter(unsigned long baud)
 {
     Serial.begin(baud);
-    millisOffset = millis();
+    delay(500);
     PrintCommand(COMMAND_RESET_PLOTTER);
 }
 
