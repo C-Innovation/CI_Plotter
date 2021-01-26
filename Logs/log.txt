@@ -1332,3 +1332,16 @@
 [2020-06-22  05:01:43] Application starting... [App.xaml.cs > OnStartup > Line 30]
 [2020-06-23  12:44:35] Application starting... [App.xaml.cs > OnStartup > Line 30]
 [2020-06-23  03:17:27] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2021-01-21  05:48:35] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2021-01-21  06:34:20] Append Terminal Monitor error in Brush Converter! (System.FormatException: Недопустимый маркер.
+   в MS.Internal.Parsers.ParseHexChar(Char c)
+   в MS.Internal.Parsers.ParseHexColor(String trimmedColor)
+   в MS.Internal.Parsers.ParseBrush(String brush, IFormatProvider formatProvider, ITypeDescriptorContext context)
+   в System.Windows.Media.Brush.Parse(String value, ITypeDescriptorContext context)
+   в System.Windows.Media.BrushConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   в System.ComponentModel.TypeConverter.ConvertFrom(Object value)
+   в FLTR.Terminal.ComTerminalPage.AppendTerminalMonitor(String text, String colorstr, Boolean isLineFeed) в C:\workspaseVS\Plotter\Chat_Part_1\Chat_Part_1\Pages\ComTerminalPage.xaml.cs:строка 824) [ComTerminalPage.xaml.cs > AppendTerminalMonitor > Line 828]
+[2021-01-21  07:04:43] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2021-01-22  11:04:09] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2021-01-25  05:02:12] Application starting... [App.xaml.cs > OnStartup > Line 30]
+[2021-01-26  03:22:00] Application starting... [App.xaml.cs > OnStartup > Line 30]
